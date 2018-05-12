@@ -1,0 +1,34 @@
+_repo: Walking-Stick-Papers_13708
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holliday, Robert Cortes
+    birthdate: 1880
+    deathdate: 1947
+    gutenberg_agent_id: '5191'
+    url: http://www.gutenberg.org/2009/agents/5191
+description: ''
+gutenberg_issued: '2004-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13708'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PS'
+tableOfContents: 'Prologue: On carrying a cane -- The fish reporter -- On going a
+  journey -- Going to art exhibitions -- A roundabout paper -- That reviewer "cuss"
+  -- Literary levities in London -- Henry James, himself -- Memories of a manuscript
+  -- "You are an American" -- Why men can''t read novels by women -- The dessert of
+  life -- A clerk may look at a celebrity -- Caun''t speak the language -- Hunting
+  lodgings -- My friend, the policeman -- Help wanted--male, female -- Human municipal
+  documents -- As to people -- Humours of the book shop -- The deceased -- A town
+  constitutional -- Reading after thirty -- Epilogue: On wearing a hat.'
+title: Walking-Stick Papers
+url: http://www.gutenberg.org/ebooks/13708
